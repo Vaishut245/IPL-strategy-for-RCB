@@ -2,7 +2,6 @@
 
 
 **Project Overview**
-
 This project focuses on analyzing the performance of Royal Challengers Bangalore (RCB) players using IPL data to devise strategies for selecting top-performing and reliable players. It combines on-field performance metrics with insightful analysis to optimize RCB's team selection and game strategies.
 
 **Objective**
