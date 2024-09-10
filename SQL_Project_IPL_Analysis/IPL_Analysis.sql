@@ -477,6 +477,7 @@ ORDER BY s.Season_Year;
 
 
 
+
 -- Question No: 10
 -- ANS: 
 -- 		Well I don't know but The question is more subjective and don't need a query.
@@ -487,4 +488,5 @@ ORDER BY s.Season_Year;
 UPDATE matches
 SET Opponent_Team = 'Delhi_Daredevils'
 WHERE Opponent_Team = 'Delhi_Capitals';
+
 
